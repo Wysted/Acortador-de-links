@@ -3,6 +3,6 @@
 Hecho con Go - GinGonic - PostgreSQL
 
 ## Iniciar proyecto
-```go
+```sh
 go run .
 ```
